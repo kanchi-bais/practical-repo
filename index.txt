@@ -1,0 +1,9 @@
+1. Program to insert a node at the beginning, at the end and
+in the middle of the given linked list.
+
+2. Program to delete a node at the beginning, at the end
+and in the middle of the given linked list.
+
+3. Program to create a linked list of customer names and their telephone numbers. (Using Menu Driven and include features of adding a new Customer and deleting an
+existing Customer.)
+
